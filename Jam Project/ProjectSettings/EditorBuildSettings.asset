@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 00ca754d311d4a04b90e27ac2e6a4e2a
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Yapimcilar.unity
+    guid: e27c98ef6f9bcfa4585256f7253e5cb9
+  - enabled: 1
+    path: Assets/Scenes/Finish.unity
+    guid: 222919f6b776c364a85293a0ef758236
+  - enabled: 1
+    path: Assets/Scenes/NotEnoughTime.unity
+    guid: 55f97caefffa22a43a7d1d3815b43441
+  - enabled: 1
+    path: Assets/Scenes/Entering.unity
+    guid: 1718b8bd124f7f343b6774ea1147c133
+  - enabled: 1
+    path: Assets/Scenes/Shooted.unity
+    guid: bf93f23ff4c49d54b837d9f694ca3327
+  m_configObjects: {}
